@@ -1,1 +1,3 @@
-Willie Chew Lab 4 Partner: Lucas Zahorik
+Willie Chew
+Lab 4
+Partner: Lucas Zahorik
